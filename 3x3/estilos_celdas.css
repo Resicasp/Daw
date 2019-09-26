@@ -1,0 +1,16 @@
+div{
+		width: 100px;
+		height: 100px;
+		background-color: #20E9BB;
+		border-style: solid;
+		border-color: black;
+		border-width: 1px;
+		display:inline-block;
+	}
+	#tablero
+	{
+		width: 314px;
+		height: 314px;
+		background-color: orange;
+		margin: 30px;
+	}
